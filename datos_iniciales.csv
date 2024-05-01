@@ -1,0 +1,2 @@
+﻿manning_cff,flow_depth,vel_min,vel_max,crown_exc_min,gravity ,density,froude_sbc,froude_spc,d_manhole_min,delta_S,Tao_min,hL_min
+0.013,0.82,0.6,3.6,2.4,9.806,1000,0.9,1.1,1.2,0.001,1.5,0.02
